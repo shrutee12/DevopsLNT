@@ -1,5 +1,5 @@
 This is an object oriented programming language 
-this is developed by oracle
-this is github
+this is developed by SUN system
+this is github website
 commit to github
 push
